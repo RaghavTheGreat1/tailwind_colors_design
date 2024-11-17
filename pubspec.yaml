@@ -1,6 +1,6 @@
 name: tailwind_colors_design
 description: A Flutter package implementing Tailwind CSS's color system with comprehensive color palettes and systematic approach to colors.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/RaghavTheGreat1/tailwind_colors_design
 repository: https://github.com/RaghavTheGreat1/tailwind_colors_design
 issue_tracker: https://github.com/RaghavTheGreat1/tailwind_colors_design/issues
